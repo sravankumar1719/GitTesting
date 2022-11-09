@@ -14,5 +14,10 @@
         {
             Console.WriteLine("Hello again");
         }
+
+        static void MessageMe()
+        {
+            Console.WriteLine("I can't message you");
+        }
     }
 }
