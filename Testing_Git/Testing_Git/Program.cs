@@ -7,10 +7,10 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hihi");
-            HiMessage();
+            HelloMessage();
         }
 
-        static void HiMessage()
+        static void HelloMessage()
         {
             Console.WriteLine("Hello again");
         }
