@@ -8,6 +8,7 @@
         {
             Console.WriteLine("Hihi");
             HelloMessage();
+            MessageMe();
         }
 
         static void HelloMessage()
