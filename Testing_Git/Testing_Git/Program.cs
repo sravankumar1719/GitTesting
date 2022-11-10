@@ -8,6 +8,7 @@
         {
             Console.WriteLine("Hihi");
             HelloMessage();
+            ReplyMessage();
         }
 
         static void HelloMessage()
@@ -18,6 +19,11 @@
         static void MessageMe()
         {
             Console.WriteLine("I can't message you");
+        }
+
+        static void ReplyMessage()
+        {
+            Console.WriteLine("Hi! How are you?");
         }
     }
 }
